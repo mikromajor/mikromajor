@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I am currently in the process of learning and practicing: React Native.
+- 🌱 I am currently in the process of learning and practicing: React.
 - 📫 How to reach me: alex.solianyk.ua@gmail.com
   
 <p align="center">My Skills</p>
