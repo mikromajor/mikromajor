@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 - 🌱 I am currently in the process of learning and practicing: React Native.
 - 📫 How to reach me: alex.solianyk.ua@gmail.com
+
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,git,react" />
+</p>
+
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,react,mui,redux,sass,vscode)](https://skillicons.dev)
