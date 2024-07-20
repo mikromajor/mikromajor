@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   
 <p align="center">My Skills</p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,git,react,mui,redux,vscode,mysql,postgres,posman,sequelize" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,git,react,mui,redux,vscode,mysql,postgres,postman,sequelize" />
 </p>
 
 
