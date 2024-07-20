@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I am currently in the process of learning and practicing: React.
+- 🔭 Now I’m working on my full-stack project: [useful_calc](https://github.com/mikromajor/useful_calculators)
+- 🌱 I am currently in the process of learning and practicing: React, Node, Postgres...
 - 📫 How to reach me: alex.solianyk.ua@gmail.com
   
 <p align="center">My Skills</p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,git,react,mui,redux,vscode,mongodb,mysql,postgres,posman,sequelize" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,git,react,mui,redux,vscode,mysql,postgres,posman,sequelize" />
 </p>
 
 
