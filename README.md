@@ -1,4 +1,5 @@
-<h1 align="center"> Hi 👋, I'm Alex - Front-end Developer.</h1>
+<h1 align="center"> Hi 👋, I'm Alex</h1>
+<h2 align="center">Front-end Developer</h2>
 
 <!--
 **mikromajor/mikromajor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
