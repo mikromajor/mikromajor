@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m interested in fronted developing on ReactJS
 - 🌱 I’m currently learning more about: React, Next, Node.
 - 👀 I’m looking for a full-time position.
-- 📫 You can reach me on LinkedIn or Gmail
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/oleksandr-solianyk-758639214/) or [Gmail](mailto:alex.solianyk.ua@gmail.com)
   
 <p align="center">My Skills</p>
   <p align="center">
