@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/oleksandr-solianyk-758639214/) or [Gmail](mailto:alex.solianyk.ua@gmail.com)
   
 <p align="center">My Skills</p>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,git,react,mui,redux,vscode,mysql,postgres,postman,sequelize" />
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,js,ts,nodejs,git,react,mui,redux,mysql,postgres,postman,sequelize" />
 </p>
 
 
