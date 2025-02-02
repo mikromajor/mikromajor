@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Alex
+<h1 align="center"> Hi 👋, I'm Alex - Front-end Developer.</h1>
 
 <!--
 **mikromajor/mikromajor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Now I’m working on my full-stack project: [useful_calc](https://github.com/mikromajor/useful_calculators)
-- 🌱 I am currently in the process of learning and practicing: React, Redux, TS...
-- 📫 How to reach me: alex.solianyk.ua@gmail.com
+- 👯 I’m interested in fronted developing on ReactJS
+- 🌱 I’m currently learning more about: React, Next, Node.
+- 👀 I’m looking for a full-time position.
+- 📫 You can reach me on LinkedIn or Gmail
   
 <p align="center">My Skills</p>
   <p align="center">
