@@ -9,10 +9,12 @@
 
 <p align="center">Languages and Tools:</p>
 <p align="center">
+   <a href="https://skillicons.dev">
   <img
-    src="https://skillicons.dev/icons?i=vscode,html,css,sass,js,ts,nodejs,git,react,mui,redux,mysql,postgres,postman,sequelize,docker,express,nest"
-    alt="?i=vscode,html,css,sass,js,ts,nodejs,git,react,mui,redux,mysql,postgres,postman,sequelize,docker,express,nest"
+    src="https://skillicons.dev/icons?i=vscode,html,css,sass,js,ts,nodejs, npm,git,react,mui,redux, mui, jest,mysql,postgres,postman,sequelize,express,nest, docker& perline=10"
+    alt="?i=vscode,html,css,sass,js,ts,nodejs, npm,git,react,mui,redux, mui, jest,mysql,postgres,postman,sequelize,express,nest, docker"
   />
+   </a>
 </p>
 
 <br /><br />
